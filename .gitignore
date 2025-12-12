@@ -210,3 +210,8 @@ __marimo__/
 
 Data/
 .DS_Store
+
+#photos
+*.png
+
+word_embeddings/
